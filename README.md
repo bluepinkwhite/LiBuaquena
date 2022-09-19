@@ -7,6 +7,9 @@ A website made to familiarize people with the concepts of gender, sexuality, and
 ### homepage
 The landing point for people entering the website. It includes a brief introduction to the website, along with navigation links.
 ### gender
-This page explains what gender expression and gender identity are, their difference from sex, and common terms relating to gender.
+This page explains what gender expression and gender identity are, their difference from sex, and common terms relating to gender. (will be made in the second quarter)
 ### sexuality
 This page explains sexuality, or sexual orientation. It includes common terms related to it as well.
+### romantic orientation
+
+### ways to support
